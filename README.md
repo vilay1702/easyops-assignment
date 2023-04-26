@@ -1,4 +1,4 @@
-Live deployed link: https://easyops-assignment-wsnz-6jnimhwm1-vilay1702.vercel.app/
+Live deployed link: https://easyops-assignment-wsnz.vercel.app/
 
 ## Available Scripts
 
