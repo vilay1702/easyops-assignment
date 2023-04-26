@@ -23,6 +23,11 @@ function App() {
     <div className="app">
       <Form data={data} setData={setData}></Form>
       <Table data={data} setData={setData}></Table>
+      <footer>
+        <span> copyright &#169; </span>
+        <span className="line"></span>
+        <span>Vilay Bende</span>
+      </footer>
     </div>
   );
 }
