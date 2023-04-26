@@ -151,3 +151,13 @@ td{
 .delete-button:hover {
     color: #ff0000;
 }
+
+
+@media screen and (max-width:600px) {
+    body{
+        font-size: 12px;
+    }
+    .form-outer,.result-outer{
+        width: 90%;
+    }
+}
