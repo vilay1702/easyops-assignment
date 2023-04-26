@@ -158,6 +158,8 @@ footer{
     align-items: center;
     width: 95vw;
     margin: auto;
+    position: sticky;
+    bottom: 0;
 }
 footer .line{
     height: 1px;
